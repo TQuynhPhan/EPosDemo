@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "dzhy6URyVj0Mv+LbGju5PNwt6kVmo0frUsvhEBN74XUqzjmOLmQ8ipGX18ORwb5SFVmlgB9mGxXq1voHdbabCw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\EPOS\\Desktop\\EPosDemomvvm2\\EPosDemoMvvm\\src\\EPosDemoMvvm.Core\\EPosDemoMvvm.Core.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\EPOS\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\5.0.0\\microsoft.extensions.logging.abstractions.5.0.0.nupkg.sha512",
+    "C:\\Users\\EPOS\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\EPOS\\.nuget\\packages\\mvvmcross\\8.0.2\\mvvmcross.8.0.2.nupkg.sha512",
+    "C:\\Users\\EPOS\\.nuget\\packages\\mvvmcross.plugin.visibility\\8.0.2\\mvvmcross.plugin.visibility.8.0.2.nupkg.sha512",
+    "C:\\Users\\EPOS\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

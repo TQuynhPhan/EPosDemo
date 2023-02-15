@@ -1,0 +1,10 @@
+C:\Users\EPOS\Desktop\EPosDemomvvm2\EPosDemoMvvm\src\EPosDemoMvvm.Core\bin\Debug\netstandard2.0\EPosDemoMvvm.Core.deps.json
+C:\Users\EPOS\Desktop\EPosDemomvvm2\EPosDemoMvvm\src\EPosDemoMvvm.Core\bin\Debug\netstandard2.0\EPosDemoMvvm.Core.dll
+C:\Users\EPOS\Desktop\EPosDemomvvm2\EPosDemoMvvm\src\EPosDemoMvvm.Core\bin\Debug\netstandard2.0\EPosDemoMvvm.Core.pdb
+C:\Users\EPOS\Desktop\EPosDemomvvm2\EPosDemoMvvm\src\EPosDemoMvvm.Core\obj\Debug\netstandard2.0\EPosDemoMvvm.Core.csproj.AssemblyReference.cache
+C:\Users\EPOS\Desktop\EPosDemomvvm2\EPosDemoMvvm\src\EPosDemoMvvm.Core\obj\Debug\netstandard2.0\EPosDemoMvvm.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\EPOS\Desktop\EPosDemomvvm2\EPosDemoMvvm\src\EPosDemoMvvm.Core\obj\Debug\netstandard2.0\EPosDemoMvvm.Core.AssemblyInfoInputs.cache
+C:\Users\EPOS\Desktop\EPosDemomvvm2\EPosDemoMvvm\src\EPosDemoMvvm.Core\obj\Debug\netstandard2.0\EPosDemoMvvm.Core.AssemblyInfo.cs
+C:\Users\EPOS\Desktop\EPosDemomvvm2\EPosDemoMvvm\src\EPosDemoMvvm.Core\obj\Debug\netstandard2.0\EPosDemoMvvm.Core.csproj.CoreCompileInputs.cache
+C:\Users\EPOS\Desktop\EPosDemomvvm2\EPosDemoMvvm\src\EPosDemoMvvm.Core\obj\Debug\netstandard2.0\EPosDemoMvvm.Core.dll
+C:\Users\EPOS\Desktop\EPosDemomvvm2\EPosDemoMvvm\src\EPosDemoMvvm.Core\obj\Debug\netstandard2.0\EPosDemoMvvm.Core.pdb
